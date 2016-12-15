@@ -31,7 +31,7 @@ object Seitaridis {
     val whatNonStop = listoffilesPos.flatMap(filename =>
     {
         stemmer.stemLine(scala.io.Source.fromFile(filename)
-        .mkString
+        .mkString.toLowerCase
         .split(" ")
         .filter(word => !stopWords.contains(word)).mkString(" "))
     }).map(word => 1).sum
