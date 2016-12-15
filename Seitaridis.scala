@@ -24,7 +24,7 @@ object Seitaridis {
 
     println(what.getClass)
 
-    println(stemmer.stemLine("worked dfgdg  is  a bad  tin0foiled'opened porter334parole ponies"))
+    println(stemmer.stemLine("worked dfgdg  is  a bad  tin0foiled'opened porter334parole ponies perhaps"))
 
 
   }
