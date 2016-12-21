@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/auth-bigdata_ex.iml" filepath="$PROJECT_DIR$/.idea/auth-bigdata_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-bigdata_ex.iml" filepath="$PROJECT_DIR$/auth-bigdata_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labeling/labeling.iml" filepath="$PROJECT_DIR$/labeling/labeling.iml" />
     </modules>
   </component>
 </project>
