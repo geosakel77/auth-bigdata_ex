@@ -1,7 +1,19 @@
 import java.io.File
 
-object Seitaridis {
+object Preprocessing {
+  def steaming(datacsv:File):File={
 
+    return null
+  }
+
+  def removePunctuation(datacsv:File):File={
+    return null
+  }
+
+  def removeStopwords(datacsv:File):File={
+    return null
+  }
+  
   def main(args: Array[String]): Unit =
   {
     println("Andreas")
